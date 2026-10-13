@@ -34,4 +34,4 @@ Video playback is powered by libVLC from the VideoLAN project, licensed under th
 If this policy changes, the updated version will be posted on this page with a new date.
 
 ## Contact
-Questions or requests: daosontung.p8@gmail.com
+Questions or requests: vumobiledev1992@gmail.com
