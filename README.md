@@ -1,3 +1,3 @@
 # Pages
 
-- [Pure It – Privacy Policy](pureit/PRIVACY.md)
+- [PureIt – Privacy Policy](pureit/PRIVACY.md)

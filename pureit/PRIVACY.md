@@ -1,11 +1,11 @@
-# Pure It – Privacy Policy
+# PureIt – Privacy Policy
 
-**Pure It - Pip Player** (package `com.pes.pureit`) · Last updated: October 13, 2026
+**PureIt - Pip Player** (package `com.pes.pureit`) · Last updated: October 13, 2026
 
-Pure It is a video player made by an independent developer, Đào Sơn Tùng ("we"). This policy explains what the app does with your information. In short: **your videos stay on your device, and we do not collect personal data.**
+PureIt is a video player made by an independent developer, Đào Sơn Tùng ("we"). This policy explains what the app does with your information. In short: **your videos stay on your device, and we do not collect personal data.**
 
 ## Videos and files on your device
-With your permission (Android "Photos and videos" access), Pure It reads the list of videos stored on your device so it can show them by folder and play them. Videos are played locally. They are never uploaded to us or to anyone else.
+With your permission (Android "Photos and videos" access), PureIt reads the list of videos stored on your device so it can show them by folder and play them. Videos are played locally. They are never uploaded to us or to anyone else.
 
 When you delete, rename, restore or hide a video, Android asks you to confirm, and the change happens only on your device.
 
@@ -25,7 +25,7 @@ The app keeps your settings, the position where you stopped each video (so it ca
 - We do not sell or share personal data.
 
 ## Children
-Pure It is a general-audience app and is not directed at children under 13. We do not knowingly collect information from children.
+PureIt is a general-audience app and is not directed at children under 13. We do not knowingly collect information from children.
 
 ## Open-source components
 Video playback is powered by libVLC from the VideoLAN project, licensed under the LGPL 2.1.
